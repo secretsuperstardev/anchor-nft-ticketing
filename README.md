@@ -1,26 +1,11 @@
 # NFT Ticketing in Rust / Solana / Anchor
 
-<a href="https://github.com/s-damian/anchor-nft-ticketing">
-<img src="https://raw.githubusercontent.com/s-damian/medias/main/technos-logos/rust.webp" alt="Rust Logo" height="100px">
-</a>
-<a href="https://github.com/s-damian/anchor-nft-ticketing">
-<img src="https://raw.githubusercontent.com/s-damian/medias/main/technos-logos/solana.webp" alt="Solana Logo" height="100px">
-</a>
-<a href="https://github.com/s-damian/anchor-nft-ticketing">
-<img src="https://raw.githubusercontent.com/s-damian/medias/main/technos-logos/anchor.webp" alt="Anchor Logo" height="100px">
-</a>
-
 > #Rust 🦀 #Solana 💠 #Anchor ⚓ #React ⚛️ #NFT 🖼️ #Web3 🌐
 
 > NFT Marketplace Event Ticketing on the **Solana Blockchain**
 
-[![Tests](https://github.com/s-damian/anchor-nft-ticketing/actions/workflows/tests.yml/badge.svg)](https://github.com/s-damian/anchor-nft-ticketing/actions/workflows/tests.yml)
-[![Static Analysis](https://github.com/s-damian/anchor-nft-ticketing/actions/workflows/static-analysis.yml/badge.svg)](https://github.com/s-damian/anchor-nft-ticketing/actions/workflows/static-analysis.yml)
-[![License](https://img.shields.io/badge/License-MIT-blue)](./LICENSE)
 
-This **NFT Solana Project** is developed by [Stephen Damian](https://github.com/s-damian)
-
-Note: I developed the same project with [Ethereum / Hardhat](https://github.com/s-damian/hardhat-nft-ticketing)
+Note: I developed the same project with [Ethereum / Hardhat](https://github.com/secretsuperstardev/hardhat-nft-ticketing)
 
 
 
@@ -97,7 +82,7 @@ solana config set --url localhost
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/s-damian/anchor-nft-ticketing.git
+git clone https://github.com/secretsuperstardev/anchor-nft-ticketing.git
 ```
 
 
